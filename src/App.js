@@ -21,6 +21,7 @@ export default function App() {
       )
     );
   }
+  //comment add
   function handleClear() {
     const Confirmed = window.confirm(
       "Are you sure you want to delete all itmes "
