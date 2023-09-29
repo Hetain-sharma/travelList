@@ -22,6 +22,7 @@ export default function App() {
     );
   }
   //comment add
+  // comment on dev branch
   function handleClear() {
     const Confirmed = window.confirm(
       "Are you sure you want to delete all itmes "
